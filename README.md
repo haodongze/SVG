@@ -1,1 +1,3 @@
-# SVG
+# SEMANTIC-VISUAL GRAPH REASONING FOR VISUAL DIALOG [ICME'24, Oral]
+
+By Dongze Hao, Qunbo Wang and Jing Liu
